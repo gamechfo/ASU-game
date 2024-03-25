@@ -1,3 +1,4 @@
-spd = 5 //Speed the player goes left and right
+spd = 8 //Speed the player goes left and right
 vsp = 0 //Current speed of the player vertically
-grv = .1 //Gravity
+jumpStrength = 12 //Jump strength
+grv = .4 //Gravity
