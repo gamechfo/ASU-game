@@ -1,1 +1,2 @@
 enteredRunes = ""
+levelComplete = false
